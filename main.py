@@ -1,5 +1,8 @@
 
 from books import display_books, save_books, load_books
+from dotenv import load_dotenv
+
+load_dotenv()
 
 user_name = input("Enter your name: ")
 print(f"Welcome, {user_name}!")
