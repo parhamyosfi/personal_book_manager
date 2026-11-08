@@ -1,7 +1,8 @@
 
 import json
-
-
+def show_tasks(books):
+    for book in books:
+        print(book["name"], "-", book["priority"])
 def display_books(books):
     print("\nYour books:")
     for book in books:
