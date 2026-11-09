@@ -12,7 +12,7 @@ A simple personal book management program written in Python. It allows users to 
     │   README.md
     │   requirements.txt
     │   .env.example
-    │   image-1.png
+    │   image-2.png
     │   image.png
 
 ## Features
